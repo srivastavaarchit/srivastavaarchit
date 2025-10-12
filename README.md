@@ -1,4 +1,11 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Archit Srivastava
+A passionate AI Developer • Web Engineer • Team Leader
+
+
+
+Email Me 👉 ✉️ srivastavaarchit46@gmail.com For Collaboration/Project or Anything Else. 😊😊 
+
+💫 About Me:
 🔭 I’m currently working on :AI-powered web platforms like *Impact Trail* and *Farm AI*.<br>👯 I’m looking to collaborate on :Scalable web apps and AI-driven solutions.<br>🤝 I’m looking for help with :Advanced AI/ML integration and real-time systems.<br>🌱 I’m currently learning : AI model integration, NLP, and system optimization.<br>💬 Ask me about : Frontend development, chatbot building, and web architecture.<br>⚡ Fun fact : I love turning hackathon ideas into real products.<br>
 
 
