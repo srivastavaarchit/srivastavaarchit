@@ -1,25 +1,30 @@
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Archit%20Srivastava&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50&descSize=18" />
-
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=🤖+Building+AI-Powered+Solutions;🌐+Full-Stack+Web+Developer;🧠+LLMs+%7C+Computer+Vision+%7C+Agents;🚀+Turning+Ideas+into+Products;💡+Hackathon+Champion+%26+Innovator" alt="Typing SVG" />
-</a>
+<!-- Animated Header Banner - Fixed gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Archit%20Srivastava&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Champion&descAlignY=60&descAlign=50&descSize=18" />
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-[![Profile Views](https://visitcount.itsvg.in/api?id=srivastavaarchit&icon=6&color=7)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-srivastava-45b220267)
+<!-- Typing SVG - Fixed service -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=🤖+Building+AI-Powered+Solutions;🌐+Full-Stack+Web+Developer;🧠+LLMs+%7C+Computer+Vision+%7C+AI+Agents;🚀+Turning+Hackathon+Ideas+into+Products;💡+Open+to+Collabs+%26+Freelance+Projects" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Badge Row -->
+[![Profile Views](https://komarev.com/ghpvc/?username=srivastavaarchit&style=flat-square&color=7C3AED&label=Profile+Views)](https://github.com/srivastavaarchit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-srivastava-45b220267)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__srivastavaarchit46__)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ArchitSriv15609)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srivastavaarchit46@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ArchitSriv15609)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srivastavaarchit46@gmail.com)
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧑‍💻 About Me
 
@@ -35,66 +40,72 @@ class ArchitSrivastava:
 
     def current_status(self):
         return {
-            "🔭 Working on"    : "AI-powered web platforms — Impact Trail & Farm AI",
-            "🌱 Learning"      : "AI model integration, NLP, System Optimization",
-            "🤝 Open to"       : "Collaborate on Scalable Web Apps & AI-Driven Solutions",
-            "💬 Ask me about"  : "Frontend Dev, Chatbot Building, Web Architecture",
-            "⚡ Fun fact"      : "I love turning hackathon ideas into real products!",
+            "🔭 Working on"   : "AI-powered web platforms — Impact Trail & Farm AI",
+            "🌱 Learning"     : "AI model integration, NLP, System Optimization",
+            "🤝 Open to"      : "Scalable Web Apps & AI-Driven Solution collabs",
+            "💬 Ask me about" : "Frontend Dev, Chatbot Building, Web Architecture",
+            "⚡ Fun fact"     : "I love turning hackathon ideas into real products!",
         }
 
 me = ArchitSrivastava()
 print(me.current_status())
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" />
+</p>
 
 ### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,angular,fastapi&theme=dark" />
+</p>
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,mongodb,firebase&theme=dark" />
+</p>
 
 ### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,canva&theme=dark" />
+</p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🏥 Heart Care AI | 🚨 Near-Miss Detection | 🆘 RESQ Disaster System |
-|:---:|:---:|:---:|
-| AI-powered cardiac health analysis platform | Real-time CCTV-based crime prevention AI | Disaster management & emergency response system |
-| [![Repo](https://img.shields.io/badge/View-Repo-7C3AED?style=flat-square&logo=github)](https://github.com/srivastavaarchit/Heart-Care-AI) | [![Repo](https://img.shields.io/badge/View-Repo-7C3AED?style=flat-square&logo=github)](https://github.com/srivastavaarchit/Near-miss-Incident-Detection) | [![Repo](https://img.shields.io/badge/View-Repo-7C3AED?style=flat-square&logo=github)](https://github.com/srivastavaarchit/RESQ-Disaster-Management-System) |
+<a href="https://github.com/srivastavaarchit/Heart-Care-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srivastavaarchit&repo=Heart-Care-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/srivastavaarchit/Near-miss-Incident-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srivastavaarchit&repo=Near-miss-Incident-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/srivastavaarchit/RESQ-Disaster-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srivastavaarchit&repo=RESQ-Disaster-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+</a>
 
 </div>
 
@@ -104,15 +115,16 @@ print(me.current_status())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srivastavaarchit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaarchit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srivastavaarchit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaarchit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
 </div>
 
+<br/>
+
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=srivastavaarchit&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=ff6b6b&currStreakLabel=7C3AED" />
-
+  <img width="70%" src="https://streak-stats.demolab.com/?user=srivastavaarchit&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA" />
 </div>
 
 ---
@@ -121,7 +133,7 @@ print(me.current_status())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=srivastavaarchit&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=srivastavaarchit&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -131,7 +143,7 @@ print(me.current_status())
 
 <div align="center">
 
-[![Archit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srivastavaarchit&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Archit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srivastavaarchit&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&area_color=A78BFA)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -144,8 +156,10 @@ print(me.current_status())
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivastavaarchit/srivastavaarchit/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivastavaarchit/srivastavaarchit/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/srivastavaarchit/srivastavaarchit/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/srivastavaarchit/srivastavaarchit/output/github-snake-dark.svg" />
 </picture>
+
+> ⚠️ **Note:** The snake animation requires a GitHub Actions workflow in your profile repo (`srivastavaarchit/srivastavaarchit`). See setup instructions below.
 
 </div>
 
@@ -155,11 +169,25 @@ print(me.current_status())
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
+
+## 🌐 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/srivastavaarchit)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/srivastavaarchit)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/srivastavaarchit)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📬 Let's Connect!
 
@@ -167,15 +195,62 @@ print(me.current_status())
 
 > 💌 **Open to collaborations, internships, freelance projects & hackathons!**
 >
-> Feel free to reach out — I'm always excited to build something great together.
+> Feel free to reach out — I'm always excited to build something great together 🚀
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaarchit46@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-srivastava-45b220267)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+<br/>
+
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaarchit46@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-srivastava-45b220267)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
 
 </div>
+
+---
+
+<details>
+<summary>⚙️ <strong>Setup: GitHub Snake Animation</strong></summary>
+<br/>
+
+To enable the snake animation, create this file in your profile repo:
+
+**Path:** `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions → Generate Snake → Run workflow** to trigger it manually for the first time.
+
+</details>
