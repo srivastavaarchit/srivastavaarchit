@@ -169,7 +169,8 @@ A beautifully designed travel web app for discovering destinations, planning tri
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srivastavaarchit&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=srivastavaarchit&theme=nord&no-frame=false&margin-w=6&row=1&column=6"/>
 
 </div>
 
