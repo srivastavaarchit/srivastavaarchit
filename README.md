@@ -188,6 +188,8 @@ A beautifully designed travel web app for discovering destinations, planning tri
 </div>
 
 > ⚙️ **Note:** To activate the snake animation, add the GitHub Actions workflow from `.github/workflows/snake.yml` in this repo.
+name: Generate Contribution Snake
+
 
 ---
 
