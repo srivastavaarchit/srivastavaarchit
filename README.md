@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:3a3a3a&height=130&section=header&text=Archit%20Srivastava&fontSize=38&fontColor=f5f5f5&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%20%C2%B7%20%20Full-Stack%20Developer&descSize=15&descAlignY=65&descColor=b0b0b0" width="100%"/>
 
 <div align="center">
@@ -145,15 +144,15 @@ A beautifully designed travel web app for discovering destinations, planning tri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavaarchit&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srivastavaarchit&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaarchit&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaarchit&layout=compact&theme=default&hide_border=true&bg_color=00000000&cache_seconds=1800" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=srivastavaarchit&theme=default&hide_border=true&background=00000000" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=srivastavaarchit&theme=default&hide_border=true&background=00000000" width="55%"/>
 
 </div>
 
@@ -165,17 +164,17 @@ A beautifully designed travel web app for discovering destinations, planning tri
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=srivastavaarchit&theme=nord&margin-w=6&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=srivastavaarchit&theme=nord&margin-w=8&margin-h=8&row=1&column=6&no-frame=true&no-bg=true"/>
 
 </div>
 
 ---
 
-## 🐍 My Contributions
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -185,10 +184,9 @@ A beautifully designed travel web app for discovering destinations, planning tri
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/srivastavaarchit/srivastavaarchit/output/github-contribution-grid-snake.svg" width="90%">
 </picture>
 
+> ℹ️ *Snake animation requires the [GitHub Action](https://github.com/Platane/snk) to be configured in this repository.*
+
 </div>
-
-
-
 
 ---
 
