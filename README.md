@@ -142,23 +142,17 @@ A beautifully designed travel web app for discovering destinations, planning tri
 
 ## 📊 GitHub Stats
 
+
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavaarchit&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&cache_seconds=1800" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaarchit&layout=compact&theme=default&hide_border=true&bg_color=00000000&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=srivastavaarchit&hide_border=true&background=111111&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="55%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=srivastavaarchit&theme=default&hide_border=true&background=00000000" width="55%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaarchit&bg_color=ffffff&color=555555&line=888888&point=333333&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaarchit&bg_color=111111&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -168,11 +162,9 @@ A beautifully designed travel web app for discovering destinations, planning tri
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srivastavaarchit&theme=nord&margin-w=8&margin-h=8&row=1&column=6&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=srivastavaarchit&theme=algolia&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"/>
 
 </div>
-
----
 
 ## 🐍 Contribution Activity
 
@@ -184,11 +176,8 @@ A beautifully designed travel web app for discovering destinations, planning tri
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/srivastavaarchit/srivastavaarchit/output/github-contribution-grid-snake.svg" width="90%">
 </picture>
 
-> ℹ️ *Snake animation requires the [GitHub Action](https://github.com/Platane/snk) to be configured in this repository.*
-
 </div>
 
----
 
 ## 🤝 Let's Build Something Together
 
