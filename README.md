@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2035,100:0a3060&height=200&section=header&text=Archit%20Srivastava&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%20%E2%80%A2%20%20Full-Stack%20Developer%20%20%E2%80%A2%20%20Open%20Source%20Builder&descSize=15&descAlignY=65&descColor=79c0ff&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2035,100:0a3060&height=200&section=header&text=Archit%20Srivastava&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%20%E2%80%A2%20%20Web-Developer%20%20%E2%80%A2%20%20Open%20Source%20Builder&descSize=15&descAlignY=65&descColor=79c0ff&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
@@ -278,7 +278,6 @@ A beautifully designed **travel discovery platform** for exploring destinations,
 </div>
 
 ---
-
 
 ## 🐍 Contribution Activity
 
